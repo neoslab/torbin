@@ -6,6 +6,14 @@ Collection of Torbin bundle for various operating system
 
 | Version | Description |
 | :--- | :--- |
+| 14.0.1 | [tor-expert-bundle-android-x86_64-14.0.1.tar.gz](https://github.com/neoslab/torbin/raw/main/android/14.0.1/tor-expert-bundle-android-x86_64-14.0.1.tar.gz) |
+| 14.0.1 | [tor-expert-bundle-linux-x86_64-14.0.1.tar.gz](https://github.com/neoslab/torbin/raw/main/linux/14.0.1/tor-expert-bundle-linux-x86_64-14.0.1.tar.gz) |
+| 14.0.1 | [tor-expert-bundle-macos-x86_64-14.0.1.tar.gz](https://github.com/neoslab/torbin/raw/main/macos/14.0.1/tor-expert-bundle-macos-x86_64-14.0.1.tar.gz) |
+| 14.0.1 | [tor-expert-bundle-windows-x86_64-14.0.1.tar.gz](https://github.com/neoslab/torbin/raw/main/windows/14.0.1/tor-expert-bundle-windows-x86_64-14.0.1.tar.gz) |
+| 14.0.0 | [tor-expert-bundle-android-x86_64-14.0.tar.gz](https://github.com/neoslab/torbin/raw/main/android/14.0/tor-expert-bundle-android-x86_64-14.0.tar.gz) |
+| 14.0.0 | [tor-expert-bundle-linux-x86_64-14.0.tar.gz](https://github.com/neoslab/torbin/raw/main/linux/14.0/tor-expert-bundle-linux-x86_64-14.0.tar.gz) |
+| 14.0.0 | [tor-expert-bundle-macos-x86_64-14.0.tar.gz](https://github.com/neoslab/torbin/raw/main/macos/14.0/tor-expert-bundle-macos-x86_64-14.0.tar.gz) |
+| 14.0.0 | [tor-expert-bundle-windows-x86_64-14.0.tar.gz](https://github.com/neoslab/torbin/raw/main/windows/14.0/tor-expert-bundle-windows-x86_64-14.0.tar.gz) |
 | 13.5.7 | [tor-expert-bundle-android-x86_64-13.5.7.tar.gz](https://github.com/neoslab/torbin/raw/main/android/13.5.7/tor-expert-bundle-android-x86_64-13.5.7.tar.gz) |
 | 13.5.7 | [tor-expert-bundle-linux-x86_64-13.5.7.tar.gz](https://github.com/neoslab/torbin/raw/main/linux/13.5.7/tor-expert-bundle-linux-x86_64-13.5.7.tar.gz) |
 | 13.5.7 | [tor-expert-bundle-macos-x86_64-13.5.7.tar.gz](https://github.com/neoslab/torbin/raw/main/macos/13.5.7/tor-expert-bundle-macos-x86_64-13.5.7.tar.gz) |
